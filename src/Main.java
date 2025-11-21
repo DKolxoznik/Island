@@ -1,4 +1,4 @@
-import ui.IslandSimulation;
+import main.java.ui.ui.IslandSimulation;
 import javax.swing.*;
 
 public class Main {
