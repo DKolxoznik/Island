@@ -1,7 +1,6 @@
 package engine;
 
 import model.*;
-import model.animals.*;
 import config.SimulationConfig;
 import config.AnimalType;
 

@@ -1,8 +1,5 @@
-package model.animals;
+package model;
 
-import model.Predator;
-import model.Animal;
-import model.Location;
 import config.AnimalType;
 
 public class Python extends Predator {

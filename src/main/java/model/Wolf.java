@@ -1,8 +1,5 @@
-package model.animals;
+package model;
 
-import model.Predator;
-import model.Animal;
-import model.Location;
 import config.AnimalType;
 
 public class Wolf extends Predator {
@@ -11,7 +8,7 @@ public class Wolf extends Predator {
     }
 
     @Override
-    protected Animal createOffspring(Location location) {
+    public Animal createOffspring(Location location) {
         return new Wolf(location);
     }
 }

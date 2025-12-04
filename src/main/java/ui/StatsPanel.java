@@ -1,9 +1,9 @@
-package main.java.ui.ui;
+package ui;
 
-import main.java.config.SimulationConfig;
-import main.java.model.Island;
-import main.java.engine.SimulationEngine;
-import main.java.config.AnimalType;
+import config.SimulationConfig;
+import model.Island;
+import engine.SimulationEngine;
+import config.AnimalType;
 
 import javax.swing.*;
 import java.awt.*;

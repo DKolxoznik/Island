@@ -1,9 +1,5 @@
-package model.animals;
+package model;
 
-import model.Plant;
-import model.Predator;
-import model.Animal;
-import model.Location;
 import config.AnimalType;
 
 public class Bear extends Predator {

@@ -1,6 +1,6 @@
-package main.java.ui.ui;
+package ui;
 
-import main.java.engine.SimulationEngine;
+import engine.SimulationEngine;
 
 import javax.swing.*;
 import java.awt.*;
