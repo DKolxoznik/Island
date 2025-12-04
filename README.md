@@ -150,9 +150,8 @@ src/test/java/
 │   ├── CellTest.java
 │   ├── IslandTest.java
 │   └── animals/        # Тесты конкретных животных
-├── engine/             # Тесты движка
-│   └── SimulationEngineTest.java
-└── integration/        # Интеграционные тесты
+└── engine/             # Тесты движка
+    └── SimulationEngineTest.java
 ```
 
 ### Примеры тестируемых сценариев
