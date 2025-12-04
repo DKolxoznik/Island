@@ -1,4 +1,4 @@
-package main.java.config;
+package config;
 
 public enum AnimalType {
     WOLF, PYTHON, FOX, BEAR, EAGLE,

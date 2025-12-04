@@ -1,9 +1,9 @@
-package main.java.model.animals;
+package model.animals;
 
-import main.java.model.Herbivore;
-import main.java.model.Animal;
-import main.java.model.Location;
-import main.java.config.AnimalType;
+import model.Herbivore;
+import model.Animal;
+import model.Location;
+import config.AnimalType;
 
 public class Rabbit extends Herbivore {
     public Rabbit(Location location) {

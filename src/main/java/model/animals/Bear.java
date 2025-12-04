@@ -1,10 +1,10 @@
-package main.java.model.animals;
+package model.animals;
 
-import main.java.model.Plant;
-import main.java.model.Predator;
-import main.java.model.Animal;
-import main.java.model.Location;
-import main.java.config.AnimalType;
+import model.Plant;
+import model.Predator;
+import model.Animal;
+import model.Location;
+import config.AnimalType;
 
 public class Bear extends Predator {
     public Bear(Location location) {

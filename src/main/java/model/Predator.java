@@ -1,6 +1,6 @@
-package main.java.model;
+package model;
 
-import main.java.config.AnimalType;
+import config.AnimalType;
 
 public abstract class Predator extends Animal {
     public Predator(AnimalType type, Location location) {

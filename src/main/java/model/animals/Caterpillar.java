@@ -1,10 +1,10 @@
-package main.java.model.animals;
+package model.animals;
 
-import main.java.model.Herbivore;
-import main.java.model.Animal;
-import main.java.model.Island;
-import main.java.model.Location;
-import main.java.config.AnimalType;
+import model.Herbivore;
+import model.Animal;
+import model.Island;
+import model.Location;
+import config.AnimalType;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Caterpillar extends Herbivore {

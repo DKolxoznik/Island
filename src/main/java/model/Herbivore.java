@@ -1,6 +1,6 @@
-package main.java.model;
+package model;
 
-import main.java.config.AnimalType;
+import config.AnimalType;
 
 public abstract class Herbivore extends Animal {
     public Herbivore(AnimalType type, Location location) {

@@ -1,6 +1,6 @@
-package main.java.model;
+package model;
 
-import main.java.config.AnimalType;
+import config.AnimalType;
 
 import java.util.*;
 import java.util.concurrent.*;

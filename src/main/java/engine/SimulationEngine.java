@@ -1,9 +1,9 @@
-package main.java.engine;
+package engine;
 
-import main.java.model.*;
-import main.java.model.animals.*;
-import main.java.config.SimulationConfig;
-import main.java.config.AnimalType;
+import model.*;
+import model.animals.*;
+import config.SimulationConfig;
+import config.AnimalType;
 
 import java.util.*;
 import java.util.concurrent.*;

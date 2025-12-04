@@ -1,6 +1,6 @@
-package main.java.model;
+package model;
 
-import main.java.config.SimulationConfig;
+import config.SimulationConfig;
 
 public class Plant {
     private boolean alive;
